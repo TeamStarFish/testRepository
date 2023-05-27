@@ -34,5 +34,3 @@ test(tes);
 
 //asdfasdsaa
 // /chang is testing this
-
-// juun was here
