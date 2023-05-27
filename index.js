@@ -8,6 +8,7 @@ tes.push("chang") //testing
 //tes.push("Patrick")
 //tes.push("Don")
 
+// Don Do Frontend Testing
 
 function test(array){
   
