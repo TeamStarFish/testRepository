@@ -8,6 +8,11 @@ tes.push("chang") //testing
 //tes.push("Patrick")
 //tes.push("Don")
 
+/**
+asdflsadfsasfdsadfsdf
+asdgsdgsadfsadf
+sdfasdgasawbr
+ */
 
 function test(array){
   
